@@ -1,6 +1,0 @@
-id,name,shipment_mode_id
-FCL,Full Container Load,SEA
-FTL,Full Truck Load,ROA
-GRP,Groupage/Freight All Kinds,
-LCL,Less than Container Load,SEA
-LTL,Less than Truck Load,ROA
