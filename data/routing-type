@@ -1,0 +1,7 @@
+id,name,position
+DEL,Delivery,5
+MCR,Main Carriage,3
+OCR,On Carriage,4
+PCR,Pre-Carriage,2
+PIC,Pickup,1
+TS,Trans-Shipment,3
