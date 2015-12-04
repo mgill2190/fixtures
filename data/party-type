@@ -1,0 +1,16 @@
+id,name
+1,Consignee
+2,Notify
+3,Customer
+4,Shipper / Consignor
+5,Agent / Overseas Partner
+7,Carrier Agent
+10,Carrier
+11,Consolidator
+12,Delivery Location
+13,Forwarder
+14,Invoicee
+15,Logistic Service Provider
+16,Pickup Location
+17,Seller
+18,Dispatch
