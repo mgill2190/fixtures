@@ -4,3 +4,7 @@ id,name
 3,House Bill of Lading No
 4,Master Bill of Lading No
 5,Government Reference Number
+6,Contract Number of Carrier
+7,Export License Number
+8,Letter of Credit Number
+9,Consignee Order Number
