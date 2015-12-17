@@ -1,5 +1,5 @@
-id,name
-AIR,Air
-RAI,Rail
-ROA,Road
-SEA,Sea
+id,name,code
+AIR,Air,
+RAI,Rail,2
+ROA,Road,3
+SEA,Sea,1
