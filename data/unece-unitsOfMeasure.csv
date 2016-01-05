@@ -1,6 +1,6 @@
-code, name, symbol
-"CEL","Degree Celsius", "°C"
-"CMT","Centimetre", "cm"
-"KGM","Kilogram", "Kg"
-"MTQ", "Cubic Metre", "m³"
-"TNE", "Tonne", "t"
+code, name, symbol, group
+"CEL","Degree Celsius", "°C", 4
+"CMT","Centimetre", "cm", 1
+"KGM","Kilogram", "Kg", 2
+"MTQ", "Cubic Metre", "m³", 5
+"TNE", "Tonne", "t", 2
