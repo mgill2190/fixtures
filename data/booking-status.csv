@@ -1,0 +1,9 @@
+id,name
+1,Pending Approval
+2,Approved
+3,Rejected
+4,Awaiting Shipment
+5,Cancelled
+6,Pending Accept
+7,Amendment
+8,Deleted
